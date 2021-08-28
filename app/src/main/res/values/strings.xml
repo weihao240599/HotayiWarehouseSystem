@@ -1,0 +1,43 @@
+<resources>
+
+
+//Header
+<string name="app_name">HotayiWarehouseSystem</string>
+<string name="open">Open</string>
+<string name="close">Close</string>
+
+//Register
+<string name="create_account_text">Create Account</string>
+<string name="sign_up_text">Sign up to get started!</string>
+<string name="username_title">Username</string>
+<string name="username_hint">Username</string>
+<string name="email_title">E-mail</string>
+<string name="email_hint">Email Address</string>
+<string name="password_title">Password</string>
+<string name="password_hint">Password</string>
+<string name="confirm_password_title">Confirm Password</string>
+<string name="confirm_password_hint">Confirm Password</string>
+<string name="sign_in_msg">I am already a member.</string>
+<string name="sign_in_text_button">Sign In</string>
+
+//Login
+<string name="welcome_text">Welcome</string>
+<string name="forgot_password">Forgot password?</string>
+<string name="sign_up_msg">Do not have an account?</string>
+<string name="sign_up_text_button">Sign Up</string>
+
+//Forget Password
+<string name="forgot_password_msg">Please enter your email address and we will let you reset your password.</string>
+
+//Forget Password Continue
+<string name="tac">TAC</string>
+<string name="tac_hint">TAC code</string>
+
+//Reset Password
+<string name="reset_password_text">Reset Password</string>
+<string name="reset_password_msg">Please enter your new password to reset password.</string>
+<string name="new_password_text">New Password</string>
+<string name="current_password_title">Current Password</string>
+
+
+</resources>

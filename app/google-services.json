@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269969188317",
+    "project_id": "hotayiwarehousesystem",
+    "storage_bucket": "hotayiwarehousesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269969188317:android:006010386010fa0748c234",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.hotayiwarehousesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269969188317-t9osqsvtj5kul3c5h8187d2tanv1n4hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvCslUbJMN4fIU4gC-qRpPKdFZWCUR8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269969188317-t9osqsvtj5kul3c5h8187d2tanv1n4hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
